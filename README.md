@@ -1,3 +1,3 @@
 # Machine-Learning
-Linear Regression with build in data type
-Linear Regression with External data type
+Linear Regression with build in data type and External data type
+
